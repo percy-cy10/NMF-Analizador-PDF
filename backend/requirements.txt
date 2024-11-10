@@ -1,0 +1,7 @@
+Flask
+pymupdf
+scikit-learn
+wordcloud
+matplotlib
+joblib
+Flask-Cors
